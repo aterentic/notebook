@@ -1,5 +1,7 @@
 ## 2016-12-10 ##
 
+[RESTful guidelines](https://dzone.com/articles/5-easy-to-spot-tells-that-your-rest-api-is-not-res) 
+
 [**Introduction to Functional Programming (Prentice Hall International Series in Computing Science)**](https://usi-pl.github.io/lc/sp-2015/doc/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf)  
 Richard Bird; Philip Wadler, March 1988  
 ISBN-13: 9780134841892 / ISBN-10: 0134841891
