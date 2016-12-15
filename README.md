@@ -1,3 +1,10 @@
+## 2016-12-15 ##
+
+[Stalker Movie Review](http://staticmass.net/world/stalker-movie-1979-review/)  
+
+[URGH! - Kratko & Jasno](https://www.youtube.com/watch?v=2eGrWx3VNJ8)  
+[King Midas Sound/Fennesz -'Our Love'](https://www.youtube.com/watch?v=wJW-w8vxbrk)
+
 ## 2016-12-10 ##
 
 [RESTful guidelines](https://dzone.com/articles/5-easy-to-spot-tells-that-your-rest-api-is-not-res) 
