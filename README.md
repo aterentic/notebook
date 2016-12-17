@@ -1,3 +1,10 @@
+## 2016-12-17 ##
+
+### Ambient ###
+
+[Peter Van Hoesen - Prismatic Wish](https://soundcloud.com/petervanhoesen/peter-van-hoesen-prismatic-wish-an-ambient-mix)  
+[Jane Fitz - Freerotation 2015 Yurt Set](https://soundcloud.com/janefitz/jane-fitz-freerotation-2015-yurt-setmp3)
+
 ## 2016-12-15 ##
 
 [Stalker Movie Review](http://staticmass.net/world/stalker-movie-1979-review/)  
