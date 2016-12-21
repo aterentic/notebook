@@ -1,8 +1,19 @@
+## 2016-12-21 ##
+
+[Modern garbage collection](https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e#.d1oj109go)
+
+### Memories ###
+
+[Ali Tiefschwarz @ Plastic, Beograd 2007.](https://www.youtube.com/watch?v=pHgYGCAl8Vg&list=PL1BF736AD73B249CC)  
+[Richie Hawtin @ Sava Centar, Beograd 2006.](https://www.youtube.com/watch?v=RTcS9KpfPQs)  
+[Lucky Strike Urban Eperience, Beograd 2004.](https://www.youtube.com/watch?v=cxsFFTnShl8)
+
 ## 2016-12-17 ##
 
 ### Ambient ###
 
-[Peter Van Hoesen - Prismatic Wish](https://soundcloud.com/petervanhoesen/peter-van-hoesen-prismatic-wish-an-ambient-mix)  
+[Peter Van Hoesen - Prismatic Wish](https://soundcloud.com/petervanhoesen/peter-van-hoesen-prismatic-wish-an-ambient-mix) |
+[Tracklist](http://www.mixesdb.com/db/index.php?curid=409583)  
 [Jane Fitz - Freerotation 2015 Yurt Set](https://soundcloud.com/janefitz/jane-fitz-freerotation-2015-yurt-setmp3)
 
 ## 2016-12-15 ##
