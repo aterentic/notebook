@@ -2,11 +2,16 @@
 
 [Modern garbage collection](https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e#.d1oj109go)
 
+### Bubba Ho-Tep ###
+
+[IMDB](http://www.imdb.com/title/tt0281686) | 
+[Review](http://classic-horror.com/reviews/bubba_ho_tep_2002)
+
 ### Memories ###
 
 [Ali Tiefschwarz @ Plastic, Beograd 2007.](https://www.youtube.com/watch?v=pHgYGCAl8Vg&list=PL1BF736AD73B249CC)  
 [Richie Hawtin @ Sava Centar, Beograd 2006.](https://www.youtube.com/watch?v=RTcS9KpfPQs)  
-[Lucky Strike Urban Eperience, Beograd 2004.](https://www.youtube.com/watch?v=cxsFFTnShl8)
+[Lucky Strike Urban Experience, Beograd 2004.](https://www.youtube.com/watch?v=cxsFFTnShl8)
 
 ## 2016-12-17 ##
 
