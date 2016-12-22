@@ -1,3 +1,7 @@
+## 2016-12-22 ##
+
+[Confessions of a Necromancer](http://hintjens.com/blog:125)
+
 ## 2016-12-21 ##
 
 [Modern garbage collection](https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e#.d1oj109go)
