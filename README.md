@@ -1,6 +1,7 @@
 ## 2016-12-26 ##
 
-[Intergalactic FM](https://intergalacticfm.com), internet radio station run by [I-F (Interr-Ference)(https://www.discogs.com/artist/1460-I-f)  
+[Intergalactic FM](https://intergalacticfm.com), internet radio station run by 
+[I-F (Interr-Ference)(https://www.discogs.com/artist/1460-I-f).  
 
 [Tiga - Mixed Emotions (CD2 Bonus Electro Funk)](https://soundcloud.com/tiga/mixed-emotions-bonus-electro-funk)
 
