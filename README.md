@@ -1,3 +1,7 @@
+## 2016-12-31 ##
+
+[Gunpei Yokoi x Yukihito Morikawa, Console Gaming Then and Now](http://shmuplations.com/yokoi)
+
 ## 2016-12-26 ##
 
 [Intergalactic FM](https://intergalacticfm.com), internet radio station run by [I-F (Interr-Ference)](https://www.discogs.com/artist/1460-I-f).
