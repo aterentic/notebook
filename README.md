@@ -1,3 +1,7 @@
+## 2017-01-07 ##
+
+['The Mother of All Demos'](https://m.youtube.com/watch?v=yJDv-zdhzMY)
+
 ## 2016-12-31 ##
 
 [Gunpei Yokoi x Yukihito Morikawa, Console Gaming Then and Now](http://shmuplations.com/yokoi)
