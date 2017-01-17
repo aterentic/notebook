@@ -1,3 +1,8 @@
+## 2017-01-17 ##
+	
+[Edward Kmett, Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)
+
+
 ## 2017-01-07 ##
 
 ['The Mother of All Demos'](https://m.youtube.com/watch?v=yJDv-zdhzMY)
