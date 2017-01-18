@@ -1,3 +1,11 @@
+## 2017-01-18 ##
+
+[Blade Runner](http://m.imdb.com/title/tt0083658/?ref_=fn_al_tt_1)  
+_I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tanhauser Gate. All those moments will be lost in time...like tears in rain. Time to die._
+
+[Ghost in the Shell](http://www.imdb.com/title/tt0113568/?ref_=fn_al_tt_2)  
+_If we all reacted the same way, we’d be predictable, and there’s always more than one way to view a situation. What’s true for the group is also true for the individual. It’s simple: overspecialize, and you breed in weakness. It’s slow death._
+
 ## 2017-01-17 ##
 	
 [Edward Kmett, Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)
