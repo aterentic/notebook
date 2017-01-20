@@ -2,7 +2,7 @@
 
 [Stanley Kubrick, Paths of Glory](http://m.imdb.com/title/tt0050825/)
 
-### [I-f](https://www.discogs.com/artist/1460-I-f) ###
+### I-f ###
 
 [Endtheme](https://www.youtube.com/watch?v=V7OUSK7YtTg)  
 [I Do Because I Couldn't Care Less ](https://www.youtube.com/watch?v=WYKjolWTGcI)  
@@ -10,7 +10,7 @@
 [Space Invaders Are Smoking Grass](https://www.youtube.com/watch?v=9SkfUpXlhSU)  
 [Disko Slique](https://www.youtube.com/watch?v=KDlnnfL_CEQ)
 
-### [Luke Vibert](https://www.discogs.com/artist/253-Luke-Vibert) ###
+### Luke Vibert ###
 
 [I Love Acid](https://www.youtube.com/watch?v=cmoFNya6P4Q)  
 [Lover's Acid (Album)](https://www.youtube.com/watch?v=J2SWpRi7Mks)  
