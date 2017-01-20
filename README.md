@@ -1,3 +1,7 @@
+## 2017-01-20 ##
+
+[Stanley Kubrick, Paths of Glory](http://m.imdb.om/title/tt0050825/)
+
 ## 2017-01-18 ##
 
 [Blade Runner](http://m.imdb.com/title/tt0083658/?ref_=fn_al_tt_1)  
