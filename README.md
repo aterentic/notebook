@@ -1,3 +1,15 @@
+## 2017-01-30 ##
+
+### Bret Victor ###
+
+[Personal site](http://worrydream.com/)
+
+#### Talks ####
+
+[Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)  
+[The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)  
+[The Humane Representation of Thought](https://www.youtube.com/watch?v=agOdP2Bmieg)
+
 ## 2017-01-20 ##
 
 [Stanley Kubrick, Paths of Glory](http://m.imdb.com/title/tt0050825/)
