@@ -4,7 +4,7 @@
 
 [Gandor - Lov na Nirdalu](https://www.youtube.com/watch?v=wuNtaIkCE9g)  
 [PDF](http://www.kosmoplovci.net/releases/Bozidar%20Mandic%20-%20Plavi%20mag,%20neoficijalno%20digitalizovano%20reizdanje,%20jun%202010.pdf)  
-[Book](http://www.delfi.rs/knjige/49416_plavi_mag_knjiga_delfi_knjizare.html)
+[Print](http://www.delfi.rs/knjige/49416_plavi_mag_knjiga_delfi_knjizare.html)
 
 _Napravio je samo jednu grešku u životu: umro je! Da nije otišao na onaj svet, ostao bi besprekoran.Ratnik koji je živeo u snovima. Zvali smo ga Plavi mag. Nije bio ni beli ni crni mag, već Plavi mag. Neustrašivo je voleo boju u kojoj su se spajali svetlost i nevinost. Njegov dom bilo je – Nebo._
 
