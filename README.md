@@ -1,6 +1,6 @@
 ## 2017-02-12 ##
 
-[Electronic Beats: Donato Dozzy Speaks to Synth Pioneer Suzanne Ciani](http://www.electronicbeats.net/)
+[Electronic Beats: Donato Dozzy Speaks to Synth Pioneer Suzanne Ciani](http://www.electronicbeats.net/donato-dozzy-speaks-to-synth-pioneer-suzanne-ciani/)
 
 [Smaller code, Better code](http://www.sacrideo.us/smaller-code-better-code/)
 
