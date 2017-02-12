@@ -2,6 +2,8 @@
 
 [Electronic Beats: Donato Dozzy Speaks to Synth Pioneer Suzanne Ciani](http://www.electronicbeats.net/)
 
+[Smaller code, Better code](http://www.sacrideo.us/smaller-code-better-code/)
+
 ## 2017-02-01 ##
 
 ### Plavi Mag ###
