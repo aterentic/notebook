@@ -1,3 +1,7 @@
+## 2017-02-21 ##
+
+[Ontology is Overrated: Categories, Links, and Tags](http://www.shirky.com/writings/ontology_overrated.html)
+
 ## 2017-02-14 ##
 
 [What We Do in the Shadows](http://www.imdb.com/title/tt3416742/?ref_=fn_al_tt_1)
