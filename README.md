@@ -1,3 +1,8 @@
+## 2017-03-04 ##
+
+[The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html)  
+[The Rise of "Worse is Better"](https://www.jwz.org/doc/worse-is-better.html)
+
 ## 2017-02-21 ##
 
 [Ontology is Overrated: Categories, Links, and Tags](http://www.shirky.com/writings/ontology_overrated.html)
