@@ -1,3 +1,7 @@
+## 2017-03-12 ##
+
+[Phortune - Can you Feel The Bass (1988)](https://www.youtube.com/watch?v=jvJ6Xx85dS0)
+
 ## 2017-03-04 ##
 
 [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html)  
