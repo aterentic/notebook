@@ -1,3 +1,7 @@
+## 2017-03-15 ##
+
+[Execution in the Kingdom of Nouns](https://www.eecis.udel.edu/~decker/courses/280f07/paper/KingJava.pdf)
+
 ## 2017-03-12 ##
 
 [Phortune - Can you Feel The Bass (1988)](https://www.youtube.com/watch?v=jvJ6Xx85dS0)
