@@ -1,3 +1,7 @@
+## 2017-03-31 ##
+
+[Machine-Learning Maestro Michael Jordan on the Delusions of Big Data and Other Huge Engineering Efforts](http://spectrum.ieee.org/robotics/artificial-intelligence/machinelearning-maestro-michael-jordan-on-the-delusions-of-big-data-and-other-huge-engineering-efforts)
+
 ## 2017-03-15 ##
 
 [Execution in the Kingdom of Nouns](https://www.eecis.udel.edu/~decker/courses/280f07/paper/KingJava.pdf)
