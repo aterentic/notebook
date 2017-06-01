@@ -1,3 +1,7 @@
+## 2017-06-01 ##
+
+[John Daly - Sea Level (Haze mix)](https://www.youtube.com/watch?v=cJ9sGKlY11s)
+
 ## 2017-03-31 ##
 
 [Machine-Learning Maestro Michael Jordan on the Delusions of Big Data and Other Huge Engineering Efforts](http://spectrum.ieee.org/robotics/artificial-intelligence/machinelearning-maestro-michael-jordan-on-the-delusions-of-big-data-and-other-huge-engineering-efforts)
