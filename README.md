@@ -1,3 +1,7 @@
+## 2017-07-03 ##
+
+[Wikipedia: The Text Adventure](http://kevan.org/wikitext/)
+
 ## 2017-06-03 ##
 
 [How Aristotle Created the Computer](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/?utm_source=codecademy_newsletter)
