@@ -1,3 +1,7 @@
+## 2017-07-19 ##
+
+[A Pale Blue Dot](http://www.planetary.org/explore/space-topics/earth/pale-blue-dot.html)
+
 ## 2017-07-03 ##
 
 [Wikipedia: The Text Adventure](http://kevan.org/wikitext/)
