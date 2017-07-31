@@ -1,3 +1,7 @@
+## 2017-07-31 ##
+
+[What is abstraction anyway?](http://liamoc.net/posts/2017-07-08-abstraction.html)
+
 ## 2017-07-19 ##
 
 [A Pale Blue Dot](http://www.planetary.org/explore/space-topics/earth/pale-blue-dot.html)
