@@ -1,3 +1,7 @@
+## 2017-09-13 ##
+
+[Marco Bernardi - Broken Silences](https://www.youtube.com/watch?v=aGmLRDhwmzI)
+
 ## 2017-09-04 ##
 
 [Matthew Herbert - It's Only (DJ Koze Remix)](https://www.youtube.com/watch?v=cxz8qJ2B8Ug)  
