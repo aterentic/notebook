@@ -1,3 +1,7 @@
+## 2017-10-04 ##
+
+[Church Of The Least Fixed Point](http://wiki.c2.com/?ChurchOfTheLeastFixedPoint)
+
 ## 2017-09-13 ##
 
 [Marco Bernardi - Broken Silences](https://www.youtube.com/watch?v=aGmLRDhwmzI)
