@@ -1,3 +1,8 @@
+## 2017-10-07 ##
+
+['Our minds can be hijacked': the tech insiders who fear a smartphone dystopia ](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)  
+[Uncle Bob and Silver Bullets](https://www.hillelwayne.com/post/uncle-bob)
+
 ## 2017-10-04 ##
 
 [Church Of The Least Fixed Point](http://wiki.c2.com/?ChurchOfTheLeastFixedPoint)
