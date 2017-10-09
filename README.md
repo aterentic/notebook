@@ -1,3 +1,7 @@
+## 2017-10-09 ##
+
+[The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
+
 ## 2017-10-07 ##
 
 ['Our minds can be hijacked': the tech insiders who fear a smartphone dystopia ](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)  
