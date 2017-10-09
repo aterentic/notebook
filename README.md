@@ -1,5 +1,7 @@
 ## 2017-10-09 ##
 
+[Brian Eno - Windows 95 Sound x23](https://www.youtube.com/watch?time_continue=83&v=fNIfbdi41ho)  
+[Creating the Windows 95 Startup Sound](http://mentalfloss.com/article/50824/creating-windows-95-startup-sound)  
 [The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
 
 ## 2017-10-07 ##
