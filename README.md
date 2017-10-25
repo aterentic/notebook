@@ -1,3 +1,27 @@
+## 2017-10-25 ##
+
+[Random Factor - Broken Mirror](https://www.youtube.com/watch?v=I3cgg3vRgzY)
+
+In a broken mirror  
+There are many things reflected  
+It's one mistake  
+That cannot be corrected
+
+So now you feel  
+There are many things connected  
+And moves you make  
+Will somehow be detected
+
+In a future time  
+Where we will be projected  
+For words they fake  
+Will never be suspected
+
+We hear the sound  
+Of sureness's reflected  
+And when we wake  
+Expect the unexpected
+
 ## 2017-10-09 ##
 
 [Brian Eno - Windows 95 Sound x23](https://www.youtube.com/watch?time_continue=83&v=fNIfbdi41ho)  
