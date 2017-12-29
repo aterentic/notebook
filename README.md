@@ -1,3 +1,7 @@
+## 2017-12-29 ##
+
+[Algorave/guidelines](https://github.com/Algorave/guidelines/blob/master/README_en.md)
+
 ## 2017-11-30 ##
 
 [Marcus Henriksson - A Matter Of The Heart](https://www.youtube.com/watch?v=qPCGPoFOv6Y)  
