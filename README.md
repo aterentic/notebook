@@ -1,3 +1,7 @@
+## 2018-03-15 ##
+
+[Hoshina Anniversary - Tough](https://www.youtube.com/watch?v=GwyX1ncF250)
+
 ## 2017-12-29 ##
 
 [Algorave/guidelines](https://github.com/Algorave/guidelines/blob/master/README_en.md)
