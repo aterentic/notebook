@@ -1,3 +1,7 @@
+## 2018-07-05 ##
+
+[Leonard Cohen - Slow](https://www.youtube.com/watch?v=U4JJNypZUOQ)
+
 ## 2018-03-15 ##
 
 [Hoshina Anniversary - Tough](https://www.youtube.com/watch?v=GwyX1ncF250)
