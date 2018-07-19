@@ -1,3 +1,7 @@
+## 2018-07-19 ##
+
+[PSD is not my favourite file format](https://github.com/gco/xee/blob/master/XeePhotoshopLoader.m#L108)
+
 ## 2018-07-05 ##
 
 [Leonard Cohen - Slow](https://www.youtube.com/watch?v=U4JJNypZUOQ)
