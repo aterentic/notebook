@@ -1,3 +1,9 @@
+## 2018-08-08 ##
+
+[The art of DJing: Jane Fitz](https://www.residentadvisor.net/features/3296)
+
+_When I hear a record, I still get so excited by a particular sound. There will be a bit in a record, it could be a drum break or a synth sound or an arp, it could be space in the record, there will be that one bit of every record where I'm like, "Yesss!!!" And when you're having that moment, and you can see someone else having the exact same response to the same part of the record that you are... You're so excited! It's this confirmation that you are having a connection with people, and you can read their mind and they can read your mind... I don't know what it is, it's just a buzz. Having that instant connection about some weird bit in a record, that's the thing that drives everything, it's like, "Wow, you really heard what I heard, that's so nice, because I'm really excited by this, and it's so nice that somebody else is really excited by this as well." Then I feel like I've done my job. You hear what I hear._
+
 ## 2018-07-19 ##
 
 [PSD is not my favourite file format](https://github.com/gco/xee/blob/master/XeePhotoshopLoader.m#L108)
