@@ -1,3 +1,7 @@
+## 2018-10-05 ##
+
+[Homoiconicity isn’t the point](http://calculist.org/blog/2012/04/17/homoiconicity-isnt-the-point)
+
 ## 2018-08-08 ##
 
 [The art of DJing: Jane Fitz](https://www.residentadvisor.net/features/3296)
