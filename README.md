@@ -1,3 +1,7 @@
+## 2018-10-07 ##
+
+[Naučite da sumnjate: Mali vodič za proveru informacija](https://www.krik.rs/naucite-da-sumnjate-mali-vodic-za-proveru-informacija/)
+
 ## 2018-10-05 ##
 
 [Homoiconicity isn’t the point](http://calculist.org/blog/2012/04/17/homoiconicity-isnt-the-point)
