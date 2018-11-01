@@ -1,3 +1,7 @@
+## 2018-11-01 ##
+
+[John Searle: Consciousness in Artificial Intelligence](https://www.youtube.com/watch?v=rHKwIYsPXLg)
+
 ## 2018-10-07 ##
 
 [Naučite da sumnjate: Mali vodič za proveru informacija](https://www.krik.rs/naucite-da-sumnjate-mali-vodic-za-proveru-informacija/)
