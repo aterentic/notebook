@@ -1,3 +1,13 @@
+## 2018-12-18 ##
+
+[Peter Van Hoesen & Gabi Sultana jouent John Cage](https://culturebox.francetvinfo.fr/musique/evenements/variations/saison-3/peter-van-hoesen-gabi-sultana-jouent-john-cage-283235)
+
+[Gabi Sultana - DM City Gent](https://www.gabisultana.com/dm-city-gent-interview)
+
+_As a teenager I was very influenced by Aphex Twin. Nowadays my list of current favorite electronic artists would have to include Alva Noto, Autechre and Sendai (Peter Van Hoesen and Yves De Mey). There are many reasons why I pick these three , but the common factor is their detail in sound. I find that fascinating. And I should also mention Shackleton because of his unique and recognizable sound._
+
+[Philip Glass - Mad Rush](https://www.youtube.com/watch?v=ZwJgxLaQ_gU)
+
 ## 2018-11-23 ##
 
 [The Iron Giant](https://www.imdb.com/title/tt0129167/)
