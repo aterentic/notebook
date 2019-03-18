@@ -1,3 +1,7 @@
+## 2019-03-18 ##
+
+[Dijalektika sećanja na Zorana Đinđića](https://pescanik.net/dijalektika-secanja-na-zorana-djindjica/)
+
 ## 2018-12-18 ##
 
 [Peter Van Hoesen & Gabi Sultana jouent John Cage](https://culturebox.francetvinfo.fr/musique/evenements/variations/saison-3/peter-van-hoesen-gabi-sultana-jouent-john-cage-283235)
