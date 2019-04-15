@@ -1,3 +1,7 @@
+## 2019-04-15 ##
+
+[David Bowie - I'm Deranged](https://www.youtube.com/watch?v=aepBpZ3kXek)
+
 ## 2019-03-18 ##
 
 [Dijalektika sećanja na Zorana Đinđića](https://pescanik.net/dijalektika-secanja-na-zorana-djindjica/)
