@@ -2,7 +2,7 @@
 
 [Remembering Joe, a Quarter of a Century of Inspiration and Friendship]( https://www.erlang-solutions.com/blog/remembering-joe-a-quarter-of-a-century-of-inspiration-and-friendship.html)
 
-``` As the old saying goes, no one truly understands concurrency until they have their second child (or cat).  ```
+> As the old saying goes, no one truly understands concurrency until they have their second child (or cat).
 
 ## 2019-04-15 ##
 
@@ -18,7 +18,7 @@
 
 [Gabi Sultana - DM City Gent](https://www.gabisultana.com/dm-city-gent-interview)
 
-``` As a teenager I was very influenced by Aphex Twin. Nowadays my list of current favorite electronic artists would have to include Alva Noto, Autechre and Sendai (Peter Van Hoesen and Yves De Mey). There are many reasons why I pick these three , but the common factor is their detail in sound. I find that fascinating. And I should also mention Shackleton because of his unique and recognizable sound. ```
+> As a teenager I was very influenced by Aphex Twin. Nowadays my list of current favorite electronic artists would have to include Alva Noto, Autechre and Sendai (Peter Van Hoesen and Yves De Mey). There are many reasons why I pick these three , but the common factor is their detail in sound. I find that fascinating. And I should also mention Shackleton because of his unique and recognizable sound. ```
 
 [Philip Glass - Mad Rush](https://www.youtube.com/watch?v=ZwJgxLaQ_gU)
 
@@ -42,7 +42,7 @@
 
 [The art of DJing: Jane Fitz](https://www.residentadvisor.net/features/3296)
 
-``` When I hear a record, I still get so excited by a particular sound. There will be a bit in a record, it could be a drum break or a synth sound or an arp, it could be space in the record, there will be that one bit of every record where I'm like, "Yesss!!!" And when you're having that moment, and you can see someone else having the exact same response to the same part of the record that you are... You're so excited! It's this confirmation that you are having a connection with people, and you can read their mind and they can read your mind... I don't know what it is, it's just a buzz. Having that instant connection about some weird bit in a record, that's the thing that drives everything, it's like, "Wow, you really heard what I heard, that's so nice, because I'm really excited by this, and it's so nice that somebody else is really excited by this as well." Then I feel like I've done my job. You hear what I hear. ```
+> When I hear a record, I still get so excited by a particular sound. There will be a bit in a record, it could be a drum break or a synth sound or an arp, it could be space in the record, there will be that one bit of every record where I'm like, "Yesss!!!" And when you're having that moment, and you can see someone else having the exact same response to the same part of the record that you are... You're so excited! It's this confirmation that you are having a connection with people, and you can read their mind and they can read your mind... I don't know what it is, it's just a buzz. Having that instant connection about some weird bit in a record, that's the thing that drives everything, it's like, "Wow, you really heard what I heard, that's so nice, because I'm really excited by this, and it's so nice that somebody else is really excited by this as well." Then I feel like I've done my job. You hear what I hear.
 
 ## 2018-07-19 ##
 
@@ -69,25 +69,25 @@
 
 [Random Factor - Broken Mirror](https://www.youtube.com/watch?v=I3cgg3vRgzY)
 
-In a broken mirror  
-There are many things reflected  
-It's one mistake  
-That cannot be corrected
+> In a broken mirror  
+> There are many things reflected  
+> It's one mistake  
+> That cannot be corrected
 
-So now you feel  
-There are many things connected  
-And moves you make  
-Will somehow be detected
+> So now you feel  
+> There are many things connected  
+> And moves you make  
+> Will somehow be detected
 
-In a future time  
-Where we will be projected  
-For words they fake  
-Will never be suspected
+> In a future time  
+> Where we will be projected  
+> For words they fake  
+> Will never be suspected
 
-We hear the sound  
-Of sureness's reflected  
-And when we wake  
-Expect the unexpected
+> We hear the sound  
+> Of sureness's reflected  
+> And when we wake  
+> Expect the unexpected
 
 ## 2017-10-09 ##
 
@@ -173,7 +173,7 @@ Expect the unexpected
 [PDF](http://www.kosmoplovci.net/releases/Bozidar%20Mandic%20-%20Plavi%20mag,%20neoficijalno%20digitalizovano%20reizdanje,%20jun%202010.pdf)  
 [Print](http://www.delfi.rs/knjige/49416_plavi_mag_knjiga_delfi_knjizare.html)
 
-_Napravio je samo jednu grešku u životu: umro je! Da nije otišao na onaj svet, ostao bi besprekoran.Ratnik koji je živeo u snovima. Zvali smo ga Plavi mag. Nije bio ni beli ni crni mag, već Plavi mag. Neustrašivo je voleo boju u kojoj su se spajali svetlost i nevinost. Njegov dom bilo je – Nebo._
+> Napravio je samo jednu grešku u životu: umro je! Da nije otišao na onaj svet, ostao bi besprekoran.Ratnik koji je živeo u snovima. Zvali smo ga Plavi mag. Nije bio ni beli ni crni mag, već Plavi mag. Neustrašivo je voleo boju u kojoj su se spajali svetlost i nevinost. Njegov dom bilo je – Nebo.
 
 ## 2017-01-30 ##
 
@@ -208,10 +208,10 @@ _Napravio je samo jednu grešku u životu: umro je! Da nije otišao na onaj svet
 ## 2017-01-18 ##
 
 [Blade Runner](http://m.imdb.com/title/tt0083658/?ref_=fn_al_tt_1)  
-_I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tanhauser Gate. All those moments will be lost in time...like tears in rain. Time to die._
+> I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tanhauser Gate. All those moments will be lost in time...like tears in rain. Time to die.
 
 [Ghost in the Shell](http://www.imdb.com/title/tt0113568/?ref_=fn_al_tt_2)  
-_If we all reacted the same way, we’d be predictable, and there’s always more than one way to view a situation. What’s true for the group is also true for the individual. It’s simple: overspecialize, and you breed in weakness. It’s slow death._
+> If we all reacted the same way, we’d be predictable, and there’s always more than one way to view a situation. What’s true for the group is also true for the individual. It’s simple: overspecialize, and you breed in weakness. It’s slow death.
 
 ## 2017-01-17 ##
 	
