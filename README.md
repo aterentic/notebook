@@ -1,3 +1,7 @@
+## 2019-05-13 ##
+
+[Bartosz Milewski - The Earth is Flat](https://bartoszmilewski.com/2018/01/11/the-earth-is-flat/)
+
 ## 2019-04-27 ##
 
 [Remembering Joe, a Quarter of a Century of Inspiration and Friendship]( https://www.erlang-solutions.com/blog/remembering-joe-a-quarter-of-a-century-of-inspiration-and-friendship.html)
