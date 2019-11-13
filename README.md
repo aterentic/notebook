@@ -1,3 +1,14 @@
+## 2019-11-13 ##
+
+[Going from Good to Great with Complex Tasks](https://www.scientificamerican.com/article/going-from-good-to-great-with-complex-tasks)
+
+> A centipede was happy – quite!
+> Until a toad in fun
+> Said, "Pray, which leg moves after which?"
+> This raised her doubts to such a pitch,
+> She fell exhausted in the ditch
+>      Not knowing how to run.
+
 ## 2019-05-13 ##
 
 [Bartosz Milewski - The Earth is Flat](https://bartoszmilewski.com/2018/01/11/the-earth-is-flat/)
