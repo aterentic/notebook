@@ -1,3 +1,7 @@
+## 2020-01-05 ##
+
+[Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0&feature=youtu.be)
+
 ## 2019-11-13 ##
 
 [Going from Good to Great with Complex Tasks](https://www.scientificamerican.com/article/going-from-good-to-great-with-complex-tasks)
