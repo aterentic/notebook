@@ -1,3 +1,7 @@
+## 2020-01-07 ##
+
+[The legendary Suzanne Ciani explaining synthesizer basics](http://www.youtube.com/watch?v=36WMySitV74)
+
 ## 2020-01-05 ##
 
 [Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0&feature=youtu.be)
