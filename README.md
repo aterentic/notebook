@@ -1,3 +1,7 @@
+## 2020-05-22 ##
+
+[The Art Of DJing: Tijana T](https://www.residentadvisor.net/features/3513)
+
 ## 2020-03-23 ##
 
 [The Boss of It All](https://www.imdb.com/title/tt0469754)
