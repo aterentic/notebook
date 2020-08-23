@@ -1,3 +1,9 @@
+## 2020-08-23 ##
+
+["AI": what’s in a name?](https://vanemden.wordpress.com/2019/10/20/ai-whats-in-a-name)
+
+> We are like sailors who on the open sea must reconstruct their ship but are never able to start afresh from the bottom. Where a beam is taken away a new one must at once be put there, and for this the rest of the ship is used as support. In this way, by using the old beams and driftwood the ship can be shaped entirely anew, but only by gradual reconstruction...
+
 ## 2020-07-27 ##
 
 [Comet NEOWISE from ISS](https://www.youtube.com/watch?v=Yh1_wHdUx3Y)
