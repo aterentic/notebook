@@ -1,3 +1,7 @@
+## 2020-09-12 ##
+
+[Persepolis](https://en.wikipedia.org/wiki/Persepolis_(comics))
+
 ## 2020-08-23 ##
 
 ["AI": what’s in a name?](https://vanemden.wordpress.com/2019/10/20/ai-whats-in-a-name)
