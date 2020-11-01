@@ -1,3 +1,9 @@
+## 2020-11-01 ##
+
+[Jodorowsky's Dune](https://www.imdb.com/title/tt1935156/?ref_=fn_al_tt_1)
+
+> This system make of us slaves. Without dignity. WIthout depth. With a devil in our pocket. This, this incredible money are in the pocket. This money. This shit. This nothing. This paper who have nothing inside. Movies have heart. Boom-boom-boom. Have mind. Have power. Have ambition. I wanted to do something like that. Why not?
+
 ## 2020-09-12 ##
 
 [Persepolis](https://en.wikipedia.org/wiki/Persepolis_(comics))
