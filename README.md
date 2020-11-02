@@ -1,3 +1,9 @@
+## 2020-11-02 ##
+
+[Europa](https://www.imdb.com/title/tt0101829/)
+
+> In the morning, the sleeper has found rest on the bottom of the river. The force of the stream has opened the door and is leading you on. Above your body, people are still alive. Follow the river as days go by. Head for the ocean that mirrors the sky. You want to wake up to free yourself of the image of Europa. But it is not possible...
+
 ## 2020-11-01 ##
 
 [Jodorowsky's Dune](https://www.imdb.com/title/tt1935156/?ref_=fn_al_tt_1)
