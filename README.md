@@ -1,3 +1,9 @@
+## 2020-11-20 ##
+
+[When the Wind Blows](https://www.imdb.com/title/tt0090315)
+
+> There's no need to forget your manners just because there's a war on.
+
 ## 2020-11-02 ##
 
 [Europa](https://www.imdb.com/title/tt0101829/)
