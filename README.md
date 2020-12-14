@@ -1,3 +1,12 @@
+## 2020-12-14 ##
+
+[Solaris](https://www.imdb.com/title/tt0069293/?ref_=fn_al_tt_1)
+
+[Solaris review](https://www.youtube.com/watch?v=xKxC5iZjrmI)
+
+> What gave you this idea of an imperfect god?
+> I don't know. It seems quite feasible to me. That is the only god I could imagine believing in, a god whose passion is not a redemption, who saves nothing, fulfills no purpose--a god who simply is.
+
 ## 2020-11-27 ##
 
 [Tail recursion and debugging](https://funcall.blogspot.com/2011/03/tail-recursion-and-debugging.html?m=1)
