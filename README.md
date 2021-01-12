@@ -1,3 +1,9 @@
+## 2021-01-12 ##
+
+[Aphex Twin - Stone In Focus](https://www.youtube.com/watch?v=q86g1aop6a8)
+
+> Old-man monkey. You can tell by his arched eyebrows and fixed frown, he’s seen some shit. The kind you can’t repeat to younger monkeys. He just wants to relax but his nightmares will wake him from time to time. His monkey wife left him ages ago and now he simply drifts with clan. Yeah, he’s a drifter, possibly a scurve, but at least he’s warm. Memories will keep you warm, but they’ll burn you from within. He knows this too well.
+
 ## 2020-12-14 ##
 
 [Solaris](https://www.imdb.com/title/tt0069293/?ref_=fn_al_tt_1)
