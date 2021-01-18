@@ -1,3 +1,7 @@
+## 2021-01-18 ##
+
+[Suspended City - Roaming the streets of Novi Beograd](https://www.calvertjournal.com/features/show/6695/suspended-city-roaming-the-streets-of-novi-beograd)
+
 ## 2021-01-12 ##
 
 [Aphex Twin - Stone In Focus](https://www.youtube.com/watch?v=q86g1aop6a8)
