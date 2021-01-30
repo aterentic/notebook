@@ -1,3 +1,7 @@
+## 2021-01-30 ##
+
+[The Curse of the Excluded Middle](https://queue.acm.org/detail.cfm?ref=rss&id=2611829)
+
 ## 2021-01-18 ##
 
 [Suspended City - Roaming the streets of Novi Beograd](https://www.calvertjournal.com/features/show/6695/suspended-city-roaming-the-streets-of-novi-beograd)
