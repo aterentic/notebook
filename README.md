@@ -1,3 +1,7 @@
+## 2021-02-13 ##
+
+[One Hacker Way - Erik Meijer](https://www.youtube.com/watch?v=2u0sNRO-QKQ)
+
 ## 2021-01-30 ##
 
 [The Curse of the Excluded Middle](https://queue.acm.org/detail.cfm?ref=rss&id=2611829)
