@@ -1,3 +1,12 @@
+## 2021-02-20 ##
+
+[Andrew Liles](https://www.andrewliles.com/)
+
+[I touch myself](https://www.youtube.com/watch?v=0-fSIsyZYcI) ([original](https://www.youtube.com/watch?v=t9ZRQFKzO2Q))  
+[What will never be](https://www.youtube.com/watch?v=xmh2lfrWoN8)
+
+> Since I'm just a boy in school, I asked my teacher: "What shall I try, should I paint pictures, should I sing songs?". There was no reply.
+
 ## 2021-02-13 ##
 
 [One Hacker Way - Erik Meijer](https://www.youtube.com/watch?v=2u0sNRO-QKQ)
