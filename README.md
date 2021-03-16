@@ -1,3 +1,9 @@
+## 2021-03-16 ##
+
+[Designing Data-Intensive Applications](https://dataintensive.net/)
+
+> If we want the future to be better than the past, moral imagination is required, and that’s something only humans can provide. Data and models should be our tools, not our masters.
+
 ## 2021-02-20 ##
 
 [Andrew Liles](https://www.andrewliles.com/)
