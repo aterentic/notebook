@@ -1,3 +1,9 @@
+## 2021-03-26 ##
+
+[Il Postino](https://www.imdb.com/title/tt0110877/?ref_=fn_al_tt_1)
+
+[The epistemology of software quality](https://increment.com/teams/the-epistemology-of-software-quality/)
+
 ## 2021-03-16 ##
 
 [Designing Data-Intensive Applications](https://dataintensive.net/)
