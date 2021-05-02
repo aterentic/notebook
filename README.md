@@ -1,3 +1,7 @@
+## 2021-05-02 ##
+
+[Notes on structured programming - Edsger W. Dijkstra](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)
+
 ## 2021-03-26 ##
 
 [Il Postino](https://www.imdb.com/title/tt0110877/?ref_=fn_al_tt_1)
