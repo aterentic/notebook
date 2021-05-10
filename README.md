@@ -1,3 +1,7 @@
+## 2021-05-10 ##
+
+[Your Mouse is a Database - Erik Meijer](https://queue.acm.org/detail.cfm?id=2169076)
+
 ## 2021-05-02 ##
 
 [Notes on structured programming - Edsger W. Dijkstra](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)
