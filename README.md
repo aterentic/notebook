@@ -1,3 +1,10 @@
+## 2021-06-05 ##
+
+[Where do pro-social institutions come from?](https://pseudoerasmus.com/2015/10/04/ce/amp/)
+
+> Intelligence and patience allow you to understand, and weigh, the intuitive risks and the counterintuitive benefits from collaborating with perfect strangers. With less intelligence and less patience you stick to what you know — intuit the benefits from relationships cultivated over a long time through blood ties or other intimate affiliations.
+> Your "moral circle" is wider with intelligence and patience than without.
+
 ## 2021-05-10 ##
 
 [Your Mouse is a Database - Erik Meijer](https://queue.acm.org/detail.cfm?id=2169076)
