@@ -1,3 +1,7 @@
+## 2021-06-20 ##
+
+[It's probably time to stop recommending Clean Code](https://qntm.org/clean)
+
 ## 2021-06-05 ##
 
 [Where do pro-social institutions come from?](https://pseudoerasmus.com/2015/10/04/ce/amp/)
