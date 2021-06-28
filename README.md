@@ -1,3 +1,7 @@
+## 2021-06-28 ##
+
+[Immortality Begins at Forty](https://www.ribbonfarm.com/2016/04/28/immortality-begins-at-forty/)
+
 ## 2021-06-20 ##
 
 [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
