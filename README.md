@@ -1,3 +1,11 @@
+## 2021-10-12 ##
+
+[Visitors from the Arkana Galaxy](https://www.imdb.com/title/tt0082466/)
+
+[Tomislav Simovic - To Turn Back Time (Anatolian Weapons Club Mix)](https://www.youtube.com/watch?v=fpaDNqIhn88)
+
+> Zemaljska sila teže zamara.
+
 ## 2021-09-28 ##
 
 [Last and First Men](https://www.imdb.com/title/tt8015444/)
