@@ -1,8 +1,12 @@
+## 2022-10-28 ##
+
+[La Notte](https://www.imdb.com/title/tt0054130/)
+
 ## 2022-01-19 ##
 
-[https://www.theguardian.com/news/2017/aug/18/neoliberalism-the-idea-that-changed-the-world](Neoliberalism: the idea that swallowed the world)
+[Neoliberalism: the idea that swallowed the world](https://www.theguardian.com/news/2017/aug/18/neoliberalism-the-idea-that-changed-the-world)
 
-[https://www.imdb.com/title/tt0093191](Wings of Desire)
+[Wings of Desire](https://www.imdb.com/title/tt0093191)
 
 > When the child was a child, it was the time of these questions. Why am I me, and why not you? Why am I here, and why not there? When did time begin, and where does space end? Isn't life under the sun just a dream? Isn't what I see, hear, and smell just the mirage of a world before the world? Does evil actually exist, and are there people who are really evil? How can it be that I, who am I, wasn't before I was, and that sometime I, the one I am, no longer will be the one I am?
 
