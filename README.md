@@ -1,3 +1,7 @@
+## 2023-03-17 ##
+
+[The Californian Ideology](https://www.metamute.org/editorial/articles/californian-ideology)
+
 ## 2022-10-28 ##
 
 [La Notte](https://www.imdb.com/title/tt0054130/)
