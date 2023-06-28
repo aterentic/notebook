@@ -1,3 +1,7 @@
+## 2023-06-28 ##
+
+[System Zero: What Kind of AI have we Created?](https://inverseprobability.com/2015/12/04/what-kind-of-ai)
+
 ## 2023-03-17 ##
 
 [The Californian Ideology](https://www.metamute.org/editorial/articles/californian-ideology)
