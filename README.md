@@ -1,3 +1,7 @@
+## 2023-10-07 ##
+
+[Alice in the Cities](https://www.imdb.com/title/tt0069687)
+
 ## 2023-06-28 ##
 
 [System Zero: What Kind of AI have we Created?](https://inverseprobability.com/2015/12/04/what-kind-of-ai)
