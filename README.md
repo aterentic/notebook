@@ -1,3 +1,7 @@
+## 2024-11-10 ##
+
+[La Belle Noiseuse](https://www.imdb.com/title/tt0101428/)
+
 ## 2024-04-21 ##
 
 [Robot's Dreams](https://www.imdb.com/title/tt13429870/)
