@@ -1,6 +1,10 @@
+## 2026-02-07
+
+[La Belle Personne](https://www.rottentomatoes.com/m/the_beautiful_person)
+
 ## 2025-02-19
 
-[Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate)
+[Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate)
 
 ## 2024-11-10 ##
 
