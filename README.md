@@ -1,3 +1,9 @@
+## 2026-02-24
+
+[Messiah of Evil](https://www.imdb.com/title/tt0071396/)
+
+[Under the Skin](https://www.imdb.com/title/tt1441395/)
+
 ## 2026-02-07
 
 [La Belle Personne](https://www.rottentomatoes.com/m/the_beautiful_person)
