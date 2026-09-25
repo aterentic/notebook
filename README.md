@@ -1,3 +1,7 @@
+## 2026-09-25
+
+[The Face of a Revolution](https://www.imdb.com/title/tt2223372/)
+
 ## 2026-02-24
 
 [Messiah of Evil](https://www.imdb.com/title/tt0071396/)
